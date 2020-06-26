@@ -8,3 +8,5 @@ print("Hello, World!")
 
 var str = "hi swift"
 print(str)
+
+// Swift는 main method가 없음 main.swfit에서 작성하면 됨
